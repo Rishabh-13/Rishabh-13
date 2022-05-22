@@ -6,7 +6,9 @@
 
 - 🔭 I'm currently persuing B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
 
-- 🌱 I’m currently learning **Data Science(Python)**
+- 🌱 I’m currently learning **Data Science(Python) and Machine Learning 💻**
+
+- 👯 I’m looking to contribute on any Open Source Project involving Data Science / Machine Learning.
 
 - 💬 Ask me about **any tech stack**
 
