@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
+<h3 align="center">I'm a Student, software engineer and a Friend!!</h3>
 
-<!--
-**Rishabh-13/Rishabh-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-13&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh-13" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently persuing B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
+
+- 🌱 I’m currently learning **Data Science(Python)**
+
+- 💬 Ask me about **any tech stack**
+
+- 📫 How to reach me **rishabh4459@gmail.com**
+
+- ⚡ Hobby: **I love binge watching and listening to music.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv09d" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/rishabh-gupta-03a947194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-singh-25ba02172" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max09d_" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvdagar1999" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv09d" height="30" width="40" /></a> -->
+</p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh-13&show_icons=true&locale=en" alt="Rishabh-13" /></p>
