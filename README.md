@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-13&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh-13" /> </p>
 
 
-- 🔭 I'm currently persuing B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
+- 🔭 I have recently graduated in B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
 
 - 🌱 I’m currently learning **Data Science(Python) and Machine Learning 💻**
 
