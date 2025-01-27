@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rishabh4459@gmail.com**
 
-- ⚡ Hobby: **I love binge watching and listening to music**
+- ⚡ Hobby: I love binge-watching and music, but nothing beats the thrill of decoding data—spotting hidden trends, making predictions, and turning numbers into stories that actually matter.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
