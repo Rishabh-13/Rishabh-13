@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-13&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh-13" /> </p>
 
 
-- 🔭 I have recently graduated in B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
+- 🔭 I have graduated in B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
 
 - 🌱 I’m currently learning **Data Science(Python) and Machine Learning 💻**
 
-- 👯 I’m looking to contribute on any Open Source Project involving Data Science / Machine Learning.
+- 👯 Always looking to contribute to any Open Source project or learning opportunity involving Data Science, Machine Learning, or Generative AI
 
 - 💬 Ask me about **any tech stack**
 
 - 📫 How to reach me **rishabh4459@gmail.com**
 
-- ⚡ Hobby: **I love binge watching and listening to music.**
+- ⚡ Hobby: **I love binge watching and listening to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
