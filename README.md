@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
-<h3 align="center">I'm a Student, software engineer and a Friend!!</h3>
+<h3 align="center">I'm a forever Student, Software Engineer and a Friend!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rishabh-13&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabh-13" /> </p>
 
 
 - 🔭 I have graduated in B.Tech (CSE) from [AKTU](https://aktu.ac.in/)
 
-- 🌱 I’m currently learning **Data Science(Python) and Machine Learning 💻**
+- 🚀 Exploring advanced topics in **Data Science, Machine Learning, and GenAI 💻**
 
-- 👯 Always looking to contribute to any Open Source project or learning opportunity involving Data Science, Machine Learning, or Generative AI
+- 🤝 Eager to collaborate on Open Source projects and innovative AI-driven solutions
 
 - 💬 Ask me about **any tech stack**
 
